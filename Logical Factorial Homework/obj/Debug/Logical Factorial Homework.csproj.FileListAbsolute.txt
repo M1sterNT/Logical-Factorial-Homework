@@ -1,0 +1,5 @@
+c:\users\dell\documents\visual studio 2015\Projects\Logical Factorial Homework\Logical Factorial Homework\bin\Debug\Logical Factorial Homework.exe.config
+c:\users\dell\documents\visual studio 2015\Projects\Logical Factorial Homework\Logical Factorial Homework\bin\Debug\Logical Factorial Homework.exe
+c:\users\dell\documents\visual studio 2015\Projects\Logical Factorial Homework\Logical Factorial Homework\bin\Debug\Logical Factorial Homework.pdb
+c:\users\dell\documents\visual studio 2015\Projects\Logical Factorial Homework\Logical Factorial Homework\obj\Debug\Logical Factorial Homework.exe
+c:\users\dell\documents\visual studio 2015\Projects\Logical Factorial Homework\Logical Factorial Homework\obj\Debug\Logical Factorial Homework.pdb
